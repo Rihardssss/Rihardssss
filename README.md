@@ -8,7 +8,7 @@ Full-stack developer with experience across multiple languages and stacks — fr
 
 ### Languages & tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,php,python,react,vite,bootstrap,nodejs,express,fastapi,graphql,mongodb,mysql,postgres,docker,github,gcp,git,vscode,figma,apple&perline=12&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,php,python,react,vite,bootstrap,nodejs,express,fastapi,graphql,mongodb,mysql,postgres,docker,githubactions,gcp,git,vscode,figma,apple&perline=12&theme=dark)](https://skillicons.dev)
 
 ---
 
