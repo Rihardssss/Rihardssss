@@ -1,12 +1,12 @@
-# Hi, I'm Rihards 👋
+# Rihards Indars
 
-Student & full-stack developer based in Latvia. I build web apps and care about how they're shipped — frontend, backend, databases, and deployment.
+Full-stack developer focused on building reliable, well-shipped web applications — from frontend interfaces to backend services, databases, and deployment pipelines.
 
 ✉️ [indarsrihards@gmail.com](mailto:indarsrihards@gmail.com)
 
 ---
 
-### 🛠️ Languages & tools
+### Languages & tools
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,30 +31,23 @@ Student & full-stack developer based in Latvia. I build web apps and care about 
 
 ---
 
-### 🚀 Featured project
+### Featured project
 
-**[SchoolHub](https://github.com/Rihardssss/schoolhub)** — a school management web app: homework, lessons, announcements, messaging.
+**[SchoolHub](https://github.com/Rihardssss/schoolhub)** — a school management platform handling homework, lessons, announcements, and messaging. Built with `React`, `Node.js`, `Express`, and `PostgreSQL`. Containerised with `Docker` and continuously deployed via `GitHub Actions`.
 
-`React` · `Node.js` · `Express` · `PostgreSQL` · `Docker` · `GitHub Actions` · `Cloudflare Tunnel`
-
-🔗 Live at [riciboy.eu](https://riciboy.eu)
+🔗 [riciboy.eu](https://riciboy.eu)
 
 ---
 
-### 🌱 Currently learning
+### Currently focused on
 
+- Designing maintainable backend architectures
 - CI/CD pipelines and secure deployment workflows
-- Docker container orchestration
-- Better software architecture habits
+- Container orchestration and infrastructure-as-code
 
 ---
 
-### 📊 GitHub stats
+### Contact
 
-![Rihards's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rihardssss&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=1c1917)
-
----
-
-### 🔗 Socials
-
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indarsrihards@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rihardssss)
